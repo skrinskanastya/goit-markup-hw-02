@@ -15,6 +15,7 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2E2F42;
+    text-decoration: none;
 }
 .header-logo span{
     color: #4D5AE5;
@@ -31,6 +32,7 @@ body{
     line-height: 1.5px;
     letter-spacing: 0.02em;
     color: #2E2F42;
+    text-decoration: none;
 }
 .header-link:hover{
     color: #434455;
@@ -51,6 +53,7 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    text-decoration: none;
 }
 .header-mail:hover {
     color: #4D5AE5;
@@ -64,6 +67,7 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    text-decoration: none;
 }
 .header-tel:hover {
     color: #4D5AE5;
@@ -232,6 +236,7 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #F4F4FD;
+    text-decoration: none;
 }
 .footer-logo span{
     color:#4D5AE5 ;
